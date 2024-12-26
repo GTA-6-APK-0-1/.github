@@ -60,3 +60,5 @@ Go to your device settings and enable installation from unknown sources:
 - Locate the downloaded OBB file.
 - Move it to the **Android > OBB > com.rockstargames.gta** folder.
 
+- ![](https://komarev.com/ghpvc/?username=GTA-6-APK-0-1&abbreviated=true)
+
